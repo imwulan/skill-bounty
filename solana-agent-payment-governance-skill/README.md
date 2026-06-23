@@ -62,7 +62,7 @@ solana-agent-payment-governance-skill/
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/solana-agent-payment-governance-skill.git
+git clone https://github.com/imwulan/solana-agent-payment-governance-skill.git
 cd solana-agent-payment-governance-skill
 ./install.sh /path/to/your/project/.claude/skills/solana-agent-payment-governance-skill
 ```
@@ -70,7 +70,7 @@ cd solana-agent-payment-governance-skill
 Or submodule it directly into the Solana AI Kit's skill hub:
 
 ```bash
-git submodule add https://github.com/<your-username>/solana-agent-payment-governance-skill.git skills/solana-agent-payment-governance-skill
+git submodule add https://github.com/imwulan/solana-agent-payment-governance-skill.git skills/solana-agent-payment-governance-skill
 ```
 
 ## License
